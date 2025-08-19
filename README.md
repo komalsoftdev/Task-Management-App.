@@ -23,5 +23,5 @@ This app allows users to easily **add, update, delete, and view tasks** in a cle
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Task-Management-App.git
+   git clone https://github.com/komalsoftdev/Task-Management-App.git
    cd Task-Management-App
